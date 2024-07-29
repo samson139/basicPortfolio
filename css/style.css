@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(169, 198, 199)
+}
+#mainImage{
+    margin-top: 40px;
+    
+    width:400px;
+    height:650px;
+    border-radius: 7px;
+}
+
+#left{
+    width:400px;
+    float:left;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+#right{
+    float:right;
+    width: 590px;
+    margin-right:100px;
+}
+#firstHeading{
+    padding-top: 70px;
+    color:rgb(24, 43, 24);
+    font-size: 40px;
+    font-family: 'Helvetica';
+}
+#jobRole{
+    color:rgb(27, 22, 29);
+    font-size: 25px;
+}
+#Para{
+    color:rgb(29, 25, 25);
+    font-size: 17px;
+    line-height:32px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 120px;
+    margin-bottom: 80px;
+}
+#page2Head{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(22, 93, 22);
+    margin-bottom: 5px;
+}
+#page2bottom{
+    text-align: center;
+    font-size: 15px;
+    color:rgb(58, 58, 125);
+    margin-bottom: 50px;
+}
+#salesTaxImage,#scores,#survey,#website{
+    display: block;
+    width:590px;
+    height: 400px;
+    margin:0 auto;
+}
+#projectsId{
+    text-align: center;
+}
+#projectsId p{
+    padding-bottom: 30px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#projectsId h3{
+    font-size: 28px;
+    color:rgb(63, 21, 21);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#projExp{
+    margin-left: 80px;
+    margin-right: 80px;
+    line-height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 4px solid rgb(40, 10, 10);
+    padding-bottom: 2px;
+}
+#contact{
+    background-color:rgb(121, 137, 138);
+    align-items: center;
+    display: block;
+    border: 3px solid rgb(59, 33, 5);
+    border-radius: 3px;
+}
+
+#contactHead{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 2px;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+.links{
+    text-align: center;
+}
+.links a{
+    text-decoration: none;
+    padding-bottom:20px;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.end{
+    text-align: center;
+}
+#scores,#survey,#website{
+    padding-top:70px ;
+}
+
+
